@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body,html{
+    height: 100%;
+    width: 100%;
+    background-color: #C2BBB1;
+}
+@font-face {
+    font-family:f1 ;
+    src: url("./Font/5f242a694256f02b944d5767_EditorialNew-Light.ttf");
+}
+@font-face {
+    font-family:f2 ;
+    src: url("./Font/5f242a69b1577e63266b4d72_DomaineDispCondMedium\ \(1\).ttf");
+}
+@font-face {
+    font-family:f3 ;
+    src: url("./Font/616fd1dd00cf6c70f978fc69_Canopee\ \(1\).ttf");
+}
+@font-face {
+    font-family:f4 ;
+    src: url("./Font/Poppins-Light.ttf");
+}
